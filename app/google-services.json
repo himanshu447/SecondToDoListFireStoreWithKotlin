@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "597963868191",
+    "firebase_url": "https://secondtodolistfirestore.firebaseio.com",
+    "project_id": "secondtodolistfirestore",
+    "storage_bucket": "secondtodolistfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597963868191:android:de335b01472ef0c3",
+        "android_client_info": {
+          "package_name": "com.example.knoxpo.secondtodolistfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597963868191-58d1o47m94f1jbepec3jqjrb4e2k3fhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.knoxpo.secondtodolistfirestore",
+            "certificate_hash": "194e414c6e5be1f9abbedb2253405cf796396bfe"
+          }
+        },
+        {
+          "client_id": "597963868191-k0lvckn5g49nd6rlu28hi66nf4j6v0m1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "597963868191-k0lvckn5g49nd6rlu28hi66nf4j6v0m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaO-00y0SPCOTSqoH6Kl1B4pHsODt9F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597963868191-k0lvckn5g49nd6rlu28hi66nf4j6v0m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
